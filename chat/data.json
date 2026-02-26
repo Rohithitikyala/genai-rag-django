@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by navigating to Settings > Security > Reset Password. A verification email will be sent to the registered email."
+  },
+  {
+    "title": "Update Email",
+    "content": "Users can update their email from Profile Settings. The new email must be verified."
+  },
+  {
+    "title": "Delete Account",
+    "content": "To delete an account, go to Settings > Account > Delete Account. This action is permanent."
+  },
+  {
+    "title": "Subscription Policy",
+    "content": "We offer Free, Pro, and Enterprise plans. Pro includes analytics and priority support."
+  },
+{
+    "title": "Refund Policy",
+    "content": "Refunds are available within 7 days of purchase."
+  },
+  {
+    "title": "Hello",
+    "content": "Hey! How can I help you?"
+  },
+  {
+    "title": "Hi",
+    "content": "Hello there! What do you need?"
+  },
+  {
+    "title": "How are you",
+    "content": "I'm doing great! 😊"
+  },
+  {
+    "title": "Bye",
+    "content": "Goodbye Rohith! Have a nice day!"
+  }
+]

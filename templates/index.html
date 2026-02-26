@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GenAI Assistant</title>
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+</head>
+<body>
+
+<header>
+    GenAI Assistant
+</header>
+
+<div class="chat-container" id="chat-box">
+</div>
+
+<div class="input-area">
+    <input type="text" id="user-input" placeholder="Type your message...">
+    <button onclick="sendMessage()">Send</button>
+</div>
+
+<script src="{% static 'scripts.js' %}"></script>
+
+</body>
+</html>
